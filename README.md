@@ -35,7 +35,17 @@ Print both the values it would be interchanged
 End the program
 
 ## PROGRAM:
-
+``` python
+#Program to swap two values.
+#Developed by: Mathiyazhagan A
+#RegisterNumber:22005215
+n1=int(input())
+n2=int(input())
+temp=n2
+n2=n1
+print("Swapped values are:",temp,n1)
+```
+## output :
 ![](./swap.png)
 
 ## RESULT:
